@@ -75,7 +75,7 @@
 
 ## Contact
 
-- **LinkedIn:** [<your-linkedin-url>](https://www.linkedin.com/in/oyewale-akinwotu/)  
+- **LinkedIn:** https://www.linkedin.com/in/oyewale-akinwotu/
 - **Email:** eoye24@gmail.com  
 
 ---
