@@ -25,7 +25,7 @@
 - **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
 ### Threat Hunting & Framework Mapping
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+- **MITRE ATTACK Hunt Sprint** – ATTACK Navigator-driven queries and detections
 
 ### Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
